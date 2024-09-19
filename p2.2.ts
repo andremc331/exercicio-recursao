@@ -18,4 +18,3 @@ const resultado = maiorR(array);
 console.log(`O maior elemento é: ${resultado}`);
 
 
-
